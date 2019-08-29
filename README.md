@@ -8,19 +8,19 @@
 * [Resources](#resources)
 * [License](#license)
 
-## General 
+## General
 
 Udacity Front-End Developer Nanodegree Third Project
 
-* Live preview https://mohamed-elhadidy.github.io/Udacity-Memory-Game/ 
+* Live preview https://github.com/akincampbell/Udacity--Project-2--Memory-Game
 
-* Game preview 
+* Game preview
 
 <img src="img/play.gif" alt="Game-preview">
 
 ## How The Game Works
 
-The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with 
+The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with
 different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very
 simple: open two hidden cards at a time to locate the ones that match!
 
@@ -48,5 +48,3 @@ The player could restart the game at any time by clicking on the restart icon.
 ## License
 
 * This project is licensed under the terms of the [MIT](https://github.com/Mohamed-ElHadidy/Udacity-Memory-Game/blob/master/LICENSE) license.
-
-
