@@ -12,7 +12,11 @@
 
 Udacity Front-End Developer Nanodegree Third Project
 
+<<<<<<< HEAD
 * Live preview https://github.com/akincampbell/Udacity--Project-2--Memory-Game
+=======
+* Live preview https://github.com/akincampbell/Udacity--Project-2--Memory-Game 
+>>>>>>> 81ab4feb953377b43424fe488bfb3b19d27e2831
 
 * Game preview
 
