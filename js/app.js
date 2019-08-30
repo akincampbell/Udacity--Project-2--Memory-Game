@@ -119,7 +119,7 @@ function respondToTheClick(e) {
         } else {
             setTimeout(notMatched, 800);
         }
-        wohoo();
+        yay();
     }
 }
 
